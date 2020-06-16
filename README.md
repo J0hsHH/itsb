@@ -35,7 +35,7 @@ python3 bot.py
 
 ## Authors
 
-* **Johannes Hove-Henriksen** - *Initial work* - [J0hs](https://github.com/J0hs)
+* **Johannes** - *Initial work* - [J0hsHH](https://github.com/J0hsHH)
 
 
 
