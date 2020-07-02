@@ -17,7 +17,7 @@ __i will work moore on this project ween i cooom inn to High School__
 ```
 cd Downloads
 cd itsb-master
-python3 bot.py
+python3 feide.py
 ```
 
 ~~## Deployment~~
