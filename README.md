@@ -30,7 +30,7 @@ python3 feide.py
 
 ## Contributing
 
-###### wana help email me at J0hsHH@protonmail.com
+###### wana help email me at post@3j.no
 
 ## Authors
 
