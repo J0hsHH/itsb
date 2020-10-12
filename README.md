@@ -1,7 +1,7 @@
 # itsb
 
 itslearning spam bot or itsb for short is a spam bot for [itslearning](https://www.itslearning.com/) the chat. itsb is a "useless" script that's spams the the itslearning chat to annoy your fellow student. 
-__i will work moore on this project ween i cooom inn to High School__
+
  
 
 
